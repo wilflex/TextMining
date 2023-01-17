@@ -1,0 +1,35 @@
+<? xml version="1.0" encoding = "ISO-889-1"?>
+<? xml stylesheet href = "intro.xsl" type = "text/xsl"?>
+< dieux lieu = "olympe">
+    <dieu>
+        <nom> Jupiter </nom>
+        <symbol> éclaire </symbol>
+        <protege> le monde </protege>
+    </dieu>
+
+    <dieu>
+        <nom> Nepturne </nom>
+        <symbol> trident </symbol>
+        <protege> océan </protege>
+    </dieu>
+
+    <dieu>
+        <nom> Apolon </nom>
+        <symbol> lyte</symbol>
+        <protege> art </protege>
+    </dieu>
+
+    <dieu>
+        <nom> Mineve </nom>
+        <symbol> le globe </symbol>
+        <protege> penser </protege>
+    </dieu>
+
+    <dieu>
+        <nom> Ablapokou </nom>
+        <symbol> fretilité </symbol>
+        <protege> les baoulé </protege>
+    </dieu>
+
+</dieux>
+
